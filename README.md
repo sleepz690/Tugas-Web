@@ -141,11 +141,3 @@ Setelah `npm run dev`, buka URL yang ditampilkan di terminal (biasanya `http://l
 | `useEffect` (mis. memperbarui `document.title`)       | ✅     |
 | Tambah, hapus, edit, tandai selesai (coret), counter  | ✅     |
 
----
-
-## Penulis
-
-- **Nama** : Muhammad Zacky Amaazid
-- **NPM** : 223510574
-- **Program Studi** : Teknik Informatika — Universitas Islam Riau (UIR)
-- **Mata Kuliah** : Pemrograman Web
